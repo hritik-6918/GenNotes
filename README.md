@@ -53,7 +53,7 @@ effortlessly across all platforms.
 - Archive / Trash Functionality
 
   - User can add note to Archive / Tras
-  - Note can be permanently deleted from tras
+  - Note can be permanently deleted from trash
   - Note can be restored as well
 
 - Labels Management
