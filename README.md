@@ -2,8 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7faaf9f3-33ff-4a27-ac63-4864447a0bef/deploy-status)](https://app.netlify.com/sites/gen-notes-hritik-kumar/deploys)
 
-GenNotes helps you to create, organise and save your notes
-effortlessly across all platforms.
+GenNotes is a note-taking app helps you to create, organise and save your notes developed by 💖**Hritik kumar** effortlessly across all platforms.
 
 ![Screenshot (210)](https://github.com/hritik-6918/GenNotes/assets/83581212/18275f42-2632-480b-869c-78a560b46e53)
 ## ✅🎉Install and Run Locally
