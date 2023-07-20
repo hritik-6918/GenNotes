@@ -2,12 +2,17 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7faaf9f3-33ff-4a27-ac63-4864447a0bef/deploy-status)](https://app.netlify.com/sites/gen-notes-hritik-kumar/deploys)
 
-GenNotes is a note-taking app helps you to create, organise and save your notes developed by 💖**Hritik kumar** 
+> GenNotes is a note-taking app helps you to create, organise and save your notes developed by 💖**Hritik kumar** 
 effortlessly across all platforms.
 
 ![Screenshot (210)](https://github.com/hritik-6918/GenNotes/assets/83581212/18275f42-2632-480b-869c-78a560b46e53)
+
+## 🚀Demo 
+> Livelink - https://gen-notes-hritik-kumar.netlify.app/
+
 ## ✅🎉Install and Run Locally
 
+- To install and run this project you would need to have installed **NodeJs & Git**
 - Clone the repository to your local machine
 - Navigate to the project directory and run **npm install** to install the dependencies
 - Run **npm start** to run the project on your localhost
