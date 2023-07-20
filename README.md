@@ -1,5 +1,7 @@
 ![logo10](https://user-images.githubusercontent.com/76046065/206905446-e0addf98-c603-4b04-ba48-4f849a55d782.png)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7faaf9f3-33ff-4a27-ac63-4864447a0bef/deploy-status)](https://app.netlify.com/sites/gen-notes-hritik-kumar/deploys)
+
 GenNotes helps you to create, organise and save your notes
 effortlessly across all platforms.
 
