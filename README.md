@@ -8,9 +8,10 @@ effortlessly across all platforms.
 ![Screenshot (210)](https://github.com/hritik-6918/GenNotes/assets/83581212/18275f42-2632-480b-869c-78a560b46e53)
 ## Install and Run Locally
 
-- Fork the project
-- Run **npm install**
+- Clone the repository to your local machine
+- Navigate to the project directory and run **npm install** to install the dependencies
 - Run **npm start** to run the project on your localhost
+- Open the app in your web browser at http://localhost:3000
 
 ## Documentation & Implementation
 
