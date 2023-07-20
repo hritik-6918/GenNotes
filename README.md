@@ -13,7 +13,7 @@ effortlessly across all platforms.
 - Run **npm start** to run the project on your localhost
 - Open the app in your web browser at http://localhost:3000
 
-## Documentation & Implementation
+## Documentation with Implementation
 
 - UI Design and Layout
   - Implemented responsive and intuitive UI layouts using modern frontend frameworks
