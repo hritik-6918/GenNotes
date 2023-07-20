@@ -5,6 +5,7 @@
 GenNotes helps you to create, organise and save your notes
 effortlessly across all platforms.
 
+![Screenshot (210)](https://github.com/hritik-6918/GenNotes/assets/83581212/18275f42-2632-480b-869c-78a560b46e53)
 ## Install and Run Locally
 
 - Fork the project
