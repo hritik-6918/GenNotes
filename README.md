@@ -6,14 +6,14 @@ GenNotes helps you to create, organise and save your notes
 effortlessly across all platforms.
 
 ![Screenshot (210)](https://github.com/hritik-6918/GenNotes/assets/83581212/18275f42-2632-480b-869c-78a560b46e53)
-## Install and Run Locally
+## ✅🎉Install and Run Locally
 
 - Clone the repository to your local machine
 - Navigate to the project directory and run **npm install** to install the dependencies
 - Run **npm start** to run the project on your localhost
 - Open the app in your web browser at http://localhost:3000
 
-## Documentation with Implementation
+## 🚀📝📌Documentation with Implementation📌
 
 - UI Design and Layout
   - Implemented responsive and intuitive UI layouts using modern frontend frameworks
@@ -37,7 +37,7 @@ effortlessly across all platforms.
   - Optimizing the frontend application for performance by minimizing render and loading times.
   - Implemented demand loading techniques to efficiently load notes and resources.
 
-## Features
+## ✨💖📝Features✨
 
 - Notes Management
 
@@ -60,7 +60,7 @@ effortlessly across all platforms.
 - Search Notes by Title
 - Fully Responsive
 
-## Build With Libraries & Frameworks
+## 📝🎯Build With Libraries & Frameworks🎯
 
 - React Js
 - Redux Toolkit
