@@ -6,8 +6,8 @@ effortlessly across all platforms.
 ## Install and Run Locally
 
 - Fork the project
-- Run ## npm install
-- Run ## npm start to run the project on your localhost
+- Run **npm install**
+- Run **npm start** to run the project on your localhost
 
 ## Documentation & Implementation
 
